@@ -110,6 +110,3 @@ Speech is synthesized using OpenAI's TTS models with natural pacing and emphasis
 
 ---
 
-## License
-
-This project is part of the [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) repository. Refer to the repository's license for terms of use.
